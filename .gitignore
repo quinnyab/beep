@@ -8,4 +8,4 @@ npm-debug.log
 logs/
 *.log
 
-# Ignore .DS_Stores
+# Ignore .DS_Store
